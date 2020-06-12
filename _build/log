@@ -1,0 +1,4 @@
+# dune build bytecode/obytelibParser.exe
+# OCAMLPARAM: unset
+$ /usr/bin/nproc > /tmp/dune787a7e.output 2> /dev/null
+$ /usr/bin/ocamlc.opt -config > /tmp/dune96f93c.output
